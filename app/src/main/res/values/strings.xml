@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taskee</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Goals</string>
+    <string name="title_notifications">Journal</string>
+    <string name="available_tasks">To-do:</string>
+    <string name="completed_tasks">Done:</string>
+    <string name="lastButton">Last</string>
+    <string name="nextButton">Next</string>
+    <string name="previousdatearrow">PreviousDateArrow</string>
+    <string name="nextdatearrow">NextDateArrow</string>
+</resources>
